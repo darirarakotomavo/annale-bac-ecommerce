@@ -6,11 +6,11 @@ export default function ContactSection() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
                     <div className="bg-white p-6 rounded-xl shadow-md text-center">
                         <h4 className="font-semibold text-slate-800">📱 Orange Money</h4>
-                        <p className="text-lg font-bold text-orange-500">+261 32 14 123 456</p>
+                        <p className="text-lg font-bold text-orange-500">+261 32 24 622 74</p>
                     </div>
                     <div className="bg-white p-6 rounded-xl shadow-md text-center">
                         <h4 className="font-semibold text-slate-800">📧 Email</h4>
-                        <p>richard.rakotomavo@example.com</p>
+                        <p>darirarakotomavo@gmail.com</p>
                     </div>
                     <div className="bg-white p-6 rounded-xl shadow-md text-center">
                         <h4 className="font-semibold text-slate-800">📘 Facebook</h4>
