@@ -1,5 +1,5 @@
 export interface Product {
-  id: string;
+  _id: string;
   name: string;
   subject: string;
   description: string;
@@ -13,7 +13,7 @@ export interface Product {
 }
 
 export interface OrderStep {
-  id: number;
+  _id: number;
   title: string;
   description: string;
 }
