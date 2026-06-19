@@ -21,7 +21,7 @@ export default function ContactPage() {
                                 📱 Orange Money
                             </h2>
                             <p className="text-2xl font-bold text-orange-500">
-                                +261 32 14 123 456
+                                +261 32 24 622 74
                             </p>
                         </div>
 
@@ -30,7 +30,8 @@ export default function ContactPage() {
                                 📧 Email
                             </h2>
                             <p className="text-lg text-slate-600">
-                                richard.rakotomavo@example.com
+                                darirarakotomavo@gmail.com
+                                
                             </p>
                         </div>
 
