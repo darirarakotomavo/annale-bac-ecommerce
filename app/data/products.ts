@@ -2,7 +2,7 @@ import type { Product, OrderStep } from "../types";
 
 export const products: Product[] = [
   {
-    id: "maths",
+    _id: "maths",
     name: "Mathématiques",
     subject: "Maths",
     description: "Corrigé complet de l'épreuve de Mathématiques",
@@ -16,7 +16,7 @@ export const products: Product[] = [
     ],
   },
   {
-    id: "physique",
+    _id: "physique",
     name: "Sciences Physiques",
     subject: "Physique",
     description: "Corrigé complet de l'épreuve de Sciences Physiques",
@@ -30,7 +30,7 @@ export const products: Product[] = [
     ],
   },
   {
-    id: "pack",
+    _id: "pack",
     name: "Pack Complet",
     subject: "Maths + Physique",
     description: "Les deux matières pour réussir le Bac",
@@ -45,7 +45,7 @@ export const products: Product[] = [
     ],
   },
   {
-    id: "code-source",
+    _id: "code-source",
     name: "Code Source LaTeX",
     subject: "Enseignant",
     description: "Code source complet des corrigés",
@@ -64,22 +64,22 @@ export const products: Product[] = [
 
 export const orderSteps: OrderStep[] = [
   {
-    id: 1,
+    _id: 1,
     title: "Choisissez votre produit",
     description: "Sélectionnez le pack qui vous convient",
   },
   {
-    id: 2,
+    _id: 2,
     title: "Paiement Orange Money",
     description: "Envoyez le montant sur le numéro ci-dessous",
   },
   {
-    id: 3,
+    _id: 3,
     title: "Confirmation par email",
     description: "Envoyez vos informations pour la livraison",
   },
   {
-    id: 4,
+    _id: 4,
     title: "Recevez vos fichiers",
     description: "Dans les 24h, vos corrigés vous sont envoyés",
   },
