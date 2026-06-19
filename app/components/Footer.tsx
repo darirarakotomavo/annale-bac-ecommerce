@@ -34,9 +34,10 @@ export default function Footer() {
                     </div>
                     <div>
                         <h4 className="text-white font-semibold mb-2">Contact</h4>
-                        <p className="text-sm">📞 +261 32 14 123 456</p>
-                        <p className="text-sm">📧 richard.rakotomavo@example.com</p>
-                        <p className="text-sm">💬 WhatsApp : +261 32 14 123 456</p>
+                        <p className="text-sm">📞 +261 32 24 622 74</p>
+<p className="text-sm">📧 darirarakotomavo@gmail.com</p>
+<p className="text-sm">💬 WhatsApp : +261 32 24 622 74</p>
+                       
                     </div>
                 </div>
                 <div className="pt-8 text-center text-sm">

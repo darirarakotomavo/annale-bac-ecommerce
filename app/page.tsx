@@ -50,11 +50,11 @@ export default async function Home() {
                         <OrderSteps />
                         <div className="mt-12 bg-emerald-50 rounded-xl p-6 text-center max-w-2xl mx-auto">
                             <h3 className="font-bold text-slate-800 mb-2">📱 Paiement Orange Money</h3>
-                            <p className="text-2xl font-bold text-orange-500">+261 32 14 123 456</p>
-                            <p className="text-sm text-slate-500 mt-2">📧 richard.rakotomavo@example.com</p>
-                            <p className="text-sm text-slate-500 mt-2">
-                                💬 Ou contactez-nous sur <span className="font-semibold text-green-600">WhatsApp</span> : +261 32 14 123 456
-                            </p>
+                            <p className="text-2xl font-bold text-orange-500">+261 32 24 622 74</p>
+<p className="text-sm text-slate-500 mt-2">📧 darirarakotomavo@gmail.com</p>
+<p className="text-sm text-slate-500 mt-2">
+    💬 Ou contactez-nous sur <span className="font-semibold text-green-600">WhatsApp</span> : +261 32 24 622 74
+</p>
                         </div>
                     </div>
                 </section>

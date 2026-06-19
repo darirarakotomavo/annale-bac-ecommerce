@@ -10,7 +10,7 @@ export default function ProductCard({ product }: ProductCardProps) {
     const isEnseignant = product.isEnseignant;
 
     // Construire le lien WhatsApp avec un message pré-rempli
-    const phoneNumber = '2613214123456'; // Numéro sans le '+'
+    const phoneNumber = '261322462274'; // Numéro sans le '+'
     const message = `Bonjour, je souhaite commander : ${product.name} (${product.price} €). Je suis intéressé par ce produit. Pouvez-vous me donner plus d'informations ?`;
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
